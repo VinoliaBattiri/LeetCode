@@ -8,7 +8,7 @@ Java <br>
 Python
 
 ## Usage
-You can browse through the directories to find solutions categorized by Question Type. <br>
+You can browse through the directories to find solutions categorized by Question number and type. <br>
 Each solution file contains code for solving the corresponding LeetCode problem using either brute force or optimized approaches both in java and python.
 
 ## Acknowledgments
